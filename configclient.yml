@@ -1,3 +1,5 @@
 client:
   pseudo:
     property: Property value loaded from Git System new updated
+    property1: Property value loaded from Git System new updated11
+    property2: Property value loaded from Git System new updated22
