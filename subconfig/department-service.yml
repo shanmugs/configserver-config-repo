@@ -1,3 +1,3 @@
-client
-  propertiy
+client:
+  propertiy:
     message1: Message from Department proeprty messsage1
