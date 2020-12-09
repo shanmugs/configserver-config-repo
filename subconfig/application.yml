@@ -1,4 +1,4 @@
-client:
+my:
   common:
     properties:
       key1 : key1-value1
