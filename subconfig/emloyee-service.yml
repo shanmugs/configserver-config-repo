@@ -1,3 +1,5 @@
-client:
-  propertiy:
-    message1: Message from Employee proeprty messsage1
+my:
+  emp:
+    properties:
+      empkey1 : empkey1-value1
+      empkey2 : empkey2-value2
