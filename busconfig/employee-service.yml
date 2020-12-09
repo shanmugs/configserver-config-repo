@@ -1,2 +1,3 @@
 app:
-  service-name: Emplotyee Service - Updated now  for Spring Cloud Bus Testing - sathish -emp
+  service:
+    name: Emplotyee Service - Updated now  for Spring Cloud Bus Testing - sathish -emp
