@@ -1,5 +1,5 @@
 my:
   dept:
     properties:
-      deptkey1 : This is teh latest dept service key 1 value
-      deptkey2 : deptkey2-value2
+      deptkey1 : This is teh modifed dept service key 1 value UDay
+      deptkey2 : deptkey2-value2 e UDay
