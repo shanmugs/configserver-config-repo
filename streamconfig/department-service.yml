@@ -1,0 +1,4 @@
+app:
+  service:
+    name: Department Service (Updated for Webhook Test)
+    
